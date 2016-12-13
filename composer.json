@@ -1,16 +1,18 @@
 {
-	"name":"zhouweijiebest/helperclass",
-	"description":"This is a common method of auxiliary class",
+    "name": "zhouweijiebest/helperclass",
+    "description": "This is a common method of auxiliary class.",
 	"version": "1.0.0",
-	"listen":"Apache-2.0",
-	"authors":[
-		{
-			"name":"zhouweijie",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name":"zhouweijie",
 			"email":"1309920680@qq.com"
-		}
-	],
-	"require":{},
-	 "autoload": {
-        
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "helperclass\\helper\\": ""
+        }
     }
 }
