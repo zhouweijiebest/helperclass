@@ -9,7 +9,5 @@
 			"email":"1309920680@qq.com"
 		}
 	],
-	"require":{
-		"php": ">=5.5.0"
-	}
+	"require":{}
 }
