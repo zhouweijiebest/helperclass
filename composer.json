@@ -3,10 +3,10 @@
 	"description":"This is a common method of auxiliary class",
 	"version":"1.0",
 	"listen":"Apache-2.0",
-	"authors":{
+	"authors":[
 		"name":"zhouweijie",
 		"email":"1309920680@qq.com"
-	},
+	],
 	"require":{
 		"php": ">=5.5.0"
 	}
