@@ -7,10 +7,5 @@
 		"name":"zhouweijie",
 		"email":"1309920680@qq.com"
 	},
-	"require":{},
-	"autoload": {
-        "psr-4": {
-            "thinkcms\\auth\\": ""
-        }
-    }
+	"require":{}
 }
