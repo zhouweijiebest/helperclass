@@ -459,7 +459,7 @@ class Helper
      */
     public static function arrayToObject($array){
         if (is_array($array)){
-            $obj = new StdClass();
+            $obj = new \StdClass();
             foreach ($array as $key => $val){
                 $obj->$key = $val;
             }
